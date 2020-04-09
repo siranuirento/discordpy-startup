@@ -19,3 +19,4 @@ async def ('わためは')(ctx):
 
 
 bot.run(token)
+
